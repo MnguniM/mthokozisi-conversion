@@ -3,3 +3,4 @@ Conversion function needed:
 - rands to cent
 - hours to minutes
 - kg to pounds
+- calceous to kelvin
